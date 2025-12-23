@@ -1,0 +1,13 @@
+Intercepted from Alice: {"supported": ["DH1536", "DH1024", "DH512", "DH256", "DH128", "DH64"]}
+
+Send to Bob: {"supported": ["DH64"]}
+
+Intercepted from Bob: {"chosen": "DH64"}
+
+Send to Alice: {"chosen": "DH64"}
+
+Intercepted from Alice: {"p": "0xde26ab651b92a129", "g": "0x2", "A": "0x75fd99ecf65fecd5"}
+
+Intercepted from Bob: {"B": "0x47f88b5c64af0638"}
+
+Intercepted from Alice: {"iv": "1907d1596c363fdd9799e5ca3fcffd41", "encrypted_flag": "23019aa4ef6e2b6d2f37644174357aab725a9a8b84cd9f48e5dd18940eacd5b0"}
